@@ -23,10 +23,7 @@ Best with Neovim or Vim 8 with +python3 extensions enabled.
 ## Screenshot
 
 ![Vim screenshot](http://rafi.io/static/img/project/vim-config/features.png)
-<<<<<<< HEAD
 ![Neovim Python](https://user-images.githubusercontent.com/4470478/48937016-bbf65680-ef47-11e8-99cc-22f4d499a62c.png)
-=======
->>>>>>> change chinese input switch readme
 
 ## Pre-requisites
 
